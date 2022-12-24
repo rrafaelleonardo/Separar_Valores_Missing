@@ -59,7 +59,7 @@
 
     print('Total de Missing: %.0f' % total_missing)
     print('nº Total de linhas: %.0f' % total_linhas)
-    print('nº de linhas de Dados Missing: %.0f' % missing)
+    print('nº de linhas Com Dados Missing: %.0f' % missing)
     print('nº de linhas Sem Dados Missing: %.0f' % sem_missing)
     
 #################################### Modulo ####################################    
